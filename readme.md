@@ -6,7 +6,7 @@ CrabbyBot is a Slack Bot that all of us can contribute to.
 
 To make changes to this bot, do the following:
 
-1. Create a Github account.
+1. [Create a Github account](https://github.com/join).
 1. Fork this repository.
 1. Clone your fork to your local computer with the Github app
 1. Make changes on your computer.
